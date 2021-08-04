@@ -1,0 +1,3 @@
+export const ALL_ROOM_SUCCESS = 'ALL_ROOM_SUCCESS'
+export const ALL_ROOM_FAILS = 'ALL_ROOM_FAILS'
+export const CLEAR_ERROR = 'CLEAR_ERROR'
